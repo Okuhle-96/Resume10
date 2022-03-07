@@ -1,0 +1,52 @@
+.back {
+    background-image: url("../images/back.jpg");
+}
+
+.topp {
+    margin-top: -20px;
+    background-color: burlywood;
+}
+
+.flex{
+
+}
+
+ul li a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: white;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: white;
+}
+
+.iconS img
+{
+   width: 30px;
+   height: 30px;
+}
+
+.img img {
+    width: 250px;
+    height: 200px;
+}
+
+.khad {
+    margin: 10px important;
+}
+
+.footer {
+    background-image: url("../images/back.jpg");
+}
+
+.footer p {
+    color: white;
+    font-weight: bolder;
+}
+
+.len {
+    margin: 20px;
+    text-align: justify;
+}
