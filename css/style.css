@@ -11,6 +11,27 @@
 
 }
 
+h1 {
+    font-size: 8rem;
+    font-weight: bolder;
+}
+
+h2 {
+    border-left: 50px solid burlywood;
+    font-weight: bolder;
+    padding-left: 15px;
+}
+h5 {
+    color: burlywood;
+    font-weight: bolder;
+}
+
+p {
+    font-size: 1.125rem;
+    font-weight: 200;
+    line-height: 1.8;
+  }
+
 ul li a {
     color: white;
     font-weight: bolder;
@@ -34,7 +55,7 @@ ul li a {
 }
 
 .khad {
-    margin: 10px important;
+    margin: 0px 0px 20px 0px;
 }
 
 .footer {
@@ -47,6 +68,10 @@ ul li a {
 }
 
 .len {
-    margin: 20px;
+    margin: 20px 20px 20px 0px;
     text-align: justify;
+}
+
+.accordition-button {
+    background-color: burlywood;
 }
